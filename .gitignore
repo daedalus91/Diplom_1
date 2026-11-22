@@ -1,0 +1,10 @@
+__pycache__/
+tests/__pycache__/
+praktikum/__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+allure-report/

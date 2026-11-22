@@ -1,0 +1,8 @@
+[run]
+source = praktikum
+omit =
+    praktikum/bun.py
+    praktikum/database.py
+    praktikum/ingredient.py
+    praktikum/ingredient_types.py
+    praktikum/praktikum.py
